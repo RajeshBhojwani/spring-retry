@@ -15,3 +15,5 @@ Step 4 - Launch the application url
 http://localhost:8080/billing
 
 Step 5 - Check the logs
+
+For detail explanation of this project check this blog - https://www.rajeshbhojwani.co.in/2018/11/spring-retry-way-to-handle-failures.html
